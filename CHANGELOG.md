@@ -1,5 +1,11 @@
 # Video Clipper — changelog
 
+## 0.1.2 — 2026-09-09
+
+The update check now runs every time you open the app, not just once a day —
+so if a new version is out, you'll see the prompt right when you launch
+instead of having to open About and click **Check for updates** yourself.
+
 ## 0.1.1 — 2026-09-09
 
 Adds the in-app updater. Video Clipper now checks for a new version when it
