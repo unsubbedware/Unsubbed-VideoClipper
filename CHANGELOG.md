@@ -1,5 +1,18 @@
 # Video Clipper — changelog
 
+## 0.1.1 — 2026-09-09
+
+Adds the in-app updater. Video Clipper now checks for a new version when it
+starts and offers a one-click update — download, verify, restart — instead of
+you having to come back to the site. Check any time from **About → Check for
+updates**.
+
+Also adds a **Send feedback** option in the About dialog (bug / idea / comment),
+so you can report something without leaving the app.
+
+Note: this only takes effect from 0.1.1 onward — a 0.1.0 install has no updater
+and needs a fresh download this once.
+
 ## 0.1.0 — 2026-09-08
 
 First public beta.
